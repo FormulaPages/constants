@@ -1,2 +1,2 @@
 build:
-	babel CONSTANTS.es6 -m umd -o CONSTANTS.js
+	babel formulaConstants.es6 -m umd -o CONSTANTS.js

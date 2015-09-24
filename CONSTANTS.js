@@ -8,7 +8,7 @@
       exports: {}
     };
     factory(mod.exports, mod);
-    global.CONSTANTS = mod.exports;
+    global.formulaConstants = mod.exports;
   }
 })(this, function (exports, module) {
   "use strict";
