@@ -1,6 +1,6 @@
 {
   "name": "formula-constants",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Spreadsheet constants",
   "main": "CONSTANTS.js",
   "scripts": {
