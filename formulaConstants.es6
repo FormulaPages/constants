@@ -22,7 +22,7 @@ export default {
 
   // Circle Constants
   τ : 6.28318530717958, // http://tauday.com/tau-manifesto
-  TAO : 6.28318530717958,
+  TAU : 6.28318530717958,
   PI : 3.14159265358979,
 
   // Address System Constants
