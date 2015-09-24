@@ -14,6 +14,8 @@
   "use strict";
 
   module.exports = {
+
+    // Date Constants
     d1900: new Date(1900, 0, 1),
     JulianOffset: 2415019,
     MinutesInHour: 60,
@@ -33,9 +35,16 @@
     PM: "PM",
     PM1: "P",
 
-    Tao: 6.28318530717958 //
-    
+    // Circle Constants
+    τ: 6.28318530717958, // http://tauday.com/tau-manifesto
+    TAO: 6.28318530717958,
+    PI: 3.14159265358979,
 
+    // Address System Constants
+    MAX_COLS: 16384, // 14 bits, 2^14
+    MAX_ROWS: 1048576, // 20 bits, 2^20
+
+    // Formatting Constants
     SeparatorChar: ",",
     DecimalChar: ".",
     DefaultCurrency: "$", // the currency string used if none specified

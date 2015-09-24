@@ -26,8 +26,8 @@ export default {
   PI : 3.14159265358979,
 
   // Address System Constants
-  MAX_COLS: 16384;    // 14 bits, 2^14
-  MAX_ROWS: 1048576;  // 20 bits, 2^20
+  MAX_COLS: 16384,    // 14 bits, 2^14
+  MAX_ROWS: 1048576,  // 20 bits, 2^20
   
   // Formatting Constants
   SeparatorChar : ",",
