@@ -1,0 +1,19 @@
+{
+  "name": "formula-constants",
+  "version": "1.0.0",
+  "description": "Spreadsheet constants",
+  "main": "CONSTANTS.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/constants.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/constants/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/constants#readme"
+}
