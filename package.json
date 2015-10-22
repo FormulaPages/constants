@@ -3,8 +3,10 @@
   "version": "1.0.3",
   "description": "Spreadsheet constants",
   "main": "CONSTANTS.js",
+  "jsnext:main": "formulaConstants.es6",
   "scripts": {
-    "test": "mocha tests"
+    "test": "mocha tests",
+    "build": "babel formulaConstants.es6 -m umd -o CONSTANTS.js"
   },
   "repository": {
     "type": "git",
